@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing backdrop circle behind phone icon -->
+    <path
+        android:pathData="M54,28 A26,26 0 1,0 54,80 A26,26 0 1,0 54,28 Z"
+        android:fillColor="#1538BDF8" />
+
+    <!-- Smartphone chassis -->
+    <path
+        android:pathData="M37,25 h34 c3.3,0 6,2.7 6,6 v46 c0,3.3 -2.7,6 -6,6 h-34 c-3.3,0 -6,-2.7 -6,-6 v-46 c0,-3.3 2.7,-6 6,-6 z"
+        android:fillColor="#1E293B"
+        android:strokeWidth="2.5"
+        android:strokeColor="#38BDF8" />
+
+    <!-- Phone top speaker / notch -->
+    <path
+        android:pathData="M50,28.5 h8"
+        android:strokeWidth="1.5"
+        android:strokeColor="#64748B"
+        android:strokeLineCap="round" />
+
+    <!-- Inner Screen Area -->
+    <path
+        android:pathData="M35,32.5 h38 v38 h-38 z"
+        android:fillColor="#090D16" />
+
+    <!-- Code Bracket: Left '<' in vibrant cyan -->
+    <path
+        android:pathData="M48,44 L42,50 L48,56"
+        android:strokeWidth="2.8"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Code Slash: '/' in vibrant indigo/purple -->
+    <path
+        android:pathData="M51,57 L57,43"
+        android:strokeWidth="2.8"
+        android:strokeColor="#818CF8"
+        android:strokeLineCap="round" />
+
+    <!-- Code Bracket: Right '>' in neon emerald -->
+    <path
+        android:pathData="M60,44 L66,50 L60,56"
+        android:strokeWidth="2.8"
+        android:strokeColor="#34D399"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Phone bottom home indicator line -->
+    <path
+        android:pathData="M49,77 h10"
+        android:strokeWidth="1.5"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round" />
+
+</vector>

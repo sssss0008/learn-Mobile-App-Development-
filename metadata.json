@@ -1,0 +1,6 @@
+{
+  "name": "MobileDev Academy",
+  "description": "Learn Mobile App Development From Beginner to Advanced. Created by Awiskar Acharya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
